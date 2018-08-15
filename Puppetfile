@@ -29,3 +29,8 @@ mod 'puppet-mysqlserver',
 mod 'puppet-memcached',
   :git => 'https://github.com/gavarito/puppet-memcached.git',
   :branch => 'production'
+
+
+mod 'puppet-balancer',
+  :git => 'https://github.com/gavarito/puppet-balancer.git',
+  :branch => 'production'
