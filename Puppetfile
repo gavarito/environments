@@ -9,7 +9,7 @@
 
 mod 'puppet-confsbase',
   :git => 'https://github.com/gavarito/puppet-confsbase.git',
-  :branch => 'homolog'
+  :branch => 'production'
 
 #mod 'puppet-balancer',
   #:git => 'https://github.com/gavarito/puppet-balancer.git',
